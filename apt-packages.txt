@@ -1,5 +1,0 @@
-chromium-browser
-chromium-chromedriver
-tesseract-ocr
-tesseract-ocr-eng
-poppler-utils
